@@ -46,17 +46,6 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/giogodoi">
-    <img src="https://github-readme-stats.vercel.app/api?username=giogodoi&theme=tokyonight&show_icons=true" height="180em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giogodoi&layout=compact&theme=tokyonight" height="180em" />
-  </a>
-</div>
-
----
-
 ## 🌍 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/-Giovane_Godoi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-felipe-godoi-oliveira-9a477a190/)](https://www.linkedin.com/in/giovane-felipe-godoi-oliveira-9a477a190/)
