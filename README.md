@@ -1,3 +1,5 @@
+<img width="1178" height="305" alt="image" src="https://github.com/user-attachments/assets/ff6257ad-4f12-497f-a12b-ddfedb16cb4a" />
+
 # Hi there, I'm Giovane Godoi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
 ### 💻 Computer Science Student | Data Science & ML Enthusiast
