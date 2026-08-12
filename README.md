@@ -21,9 +21,8 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ### 🧠 Data Science, AI & Machine Learning
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,pytorch,scikitlearn,pandas" alt="Data & AI" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,pytorch,scikitlearn" alt="Data & AI" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/huggingface" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/></a>
@@ -42,8 +41,7 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ### 🔧 Tools, Testing & Utilities
 <p align="left">
-   <a href="#"><img src="https://skillicons.dev/icons?i=postman,vscode,eclipse,figma,jest,cypress" alt="Tools" height="40"/></a>
-   <a href="#"><img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40"/></a>
+   <a href="#"><img src="https://skillicons.dev/icons?i=postman,vscode,eclipse,figma" alt="Tools" height="40"/></a>
 </p>
 
 ---
