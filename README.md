@@ -11,9 +11,9 @@ I'm an undergraduate student studying **Computer Science** at the **Federal Univ
 
 ## 👨‍💻 About Me
 
-- 🤔 I'm exploring new technologies and building scalable software solutions.
-- 🌱 Currently learning and diving deep into **Data Science and Machine Learning**.
-- 💼 Actively applying my practical skills across full-stack development, cloud computing, and AI tools.
+- I'm exploring new technologies and building scalable software solutions.
+- Currently learning and diving deep into **Data Science and Machine Learning**.
+- Actively applying my practical skills across full-stack development, cloud computing, and AI tools.
 
 ---
 
